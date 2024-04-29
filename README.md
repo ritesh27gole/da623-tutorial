@@ -54,6 +54,7 @@ In conclusion, this tutorial provides a comprehensive guide to regression modeli
 
 ## References
 
+- ["Second Hand Car Price Prediction" dataset from Kaggle](https://www.kaggle.com/datasets/sujithmandala/second-hand-car-price-prediction/data)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
